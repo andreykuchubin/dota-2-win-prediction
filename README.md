@@ -9,7 +9,7 @@
 * CatBoost
 
 ## Результат работы
-Лучше всего себя показала модель CatBoost, позволив достичь 
+Лучше всего себя показала модель Логистической регресии, позволив достичь значения AUC 0.825 на тестовом наборе данных. 
 
 ## Используемый стек
 Jupyter Notebook Python: pandas, numpy, matplotlib, seaborn, tqdm, sklearn, catboost, optuna, ujson, shap.
